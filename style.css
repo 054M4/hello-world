@@ -1,0 +1,13 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text{
+  display: inline-block;
+  padding: 20px;
+  background: linear-gradient(45deg,#20fa3040,#2fcdef40);
+  border-radius: 10px;
+  color: #df6266;
+  text-align: center;
+}
